@@ -4,16 +4,16 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero:10001,
-                name: 'Raissa Cunha Pinto',
+                numero: '10001',
+                name: 'Raissa Cunha',
                 partido: 'EMBRAZANDO',
                 fotos: [
                     {url: '10001.png', legenda: 'Vereador', small: false}
                 ]
             },
             {
-                numero:20001,
-                name: 'Diego Araujo Dias',
+                numero: '20001',
+                name: 'Diego Araujo',
                 partido: 'PANCADAO',
                 fotos: [
                 {url: '20001.png', legenda: 'Vereador', small: false}
@@ -26,20 +26,20 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 10,
-                name: 'Bianca Correia Souza',
+                numero: '10',
+                name: 'Bianca Correia',
                 partido: 'EMBRAZANDO',
-                vice: 'Aline Costa Lima',
+                vice: 'Aline Costa',
                 fotos: [
                     {url: '10.png', legenda: 'Prefeito'},
                     {url: '10-2.png', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
-                numero: 20,
-                name: 'Igor Rodrigues Sousa',
+                numero: '20',
+                name: 'Igor Rodrigues',
                 partido: 'PANCADAO',
-                vice: 'Gabrielly Almeida Alves',
+                vice: 'Gabrielly Almeida',
                 fotos: [
                     {url: '20.png', legenda: 'Prefeito'},
                     {url: '20-2.png', legenda: 'Vice-Prefeito', small: true}
