@@ -7,9 +7,9 @@ This mini project is a sequence for portfolio. 🤙
 
 What was used here?
 
-![](\image\html.png)
-![](\image\css.png)
-![](\image\js.png)
+![](./image/html.png)
+![](./image/css.png)
+![](./image/js.png)
 
-
-![](\image\ney.gif)
+_to the next_
+![](./image/ney.gif)
