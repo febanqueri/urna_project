@@ -7,9 +7,11 @@ This mini project is a sequence for portfolio. 🤙
 
 What was used here?
 
-![](./image/html.png)
-![](./image/css.png)
-![](./image/js.png)
+![](./image/iconhtml.png)
+![](./image/iconcss.png)
+![](./image/iconjavascript.png)
+
+![](./image/iconpng.png) for [Flaticon](https://www.flaticon.com/)
 
 _to the next_
 ![](./image/ney.gif)
